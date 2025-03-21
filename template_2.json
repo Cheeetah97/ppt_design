@@ -1,0 +1,304 @@
+[
+
+    {
+        "type": "title_slide",
+        "id": 1,
+        "elements": [
+            {
+                "id": 12,
+                "type": "title"
+            },
+            {
+                "id": 14,
+                "type": "credit_line"
+            },
+            {
+                "id": 24,
+                "type": "image"
+            }
+
+        ]
+
+    },
+    {
+        "type": "paragraph_slide",
+        "id": 2,
+        "elements": [
+            {
+                "id": 10,
+                "type": "title"
+            },
+            {
+                "id": 9,
+                "type": "paragraphs"
+            }
+
+        ]
+
+    },
+    {
+        "type": "paragraph_slide_with_icon",
+        "id": 3,
+        "elements": [
+            {
+                "id": 10,
+                "type": "title"
+            },
+            {
+                "id": 9,
+                "type": "paragraphs"
+            },
+            {
+                "id": 18,
+                "type": "icon"
+            }
+
+        ]
+
+    },
+    {
+        "type": "paragraph_slide_with_image",
+        "id": 4,
+        "elements": [
+            {
+                "id": 14,
+                "type": "title"
+            },
+            {
+                "id": 15,
+                "type": "paragraphs"
+            },
+            {
+                "id": 16,
+                "type": "image"
+            }
+
+        ]
+
+    },
+    {
+        "type": "unordered_bullets_slide",
+        "id": 5,
+        "elements": [
+            {
+                "id": 12,
+                "type": "title"
+            },
+            {
+                "id": 9,
+                "type": "bullets"
+            }
+
+        ]
+
+    },
+    {
+        "type": "unordered_bullets_slide_with_icon",
+        "id": 6,
+        "elements": [
+            {
+                "id": 8,
+                "type": "title"
+            },
+            {
+                "id": 11,
+                "type": "bullets"
+            },
+            {
+                "id": 23,
+                "type": "icon"
+            }
+
+        ]
+
+    },
+    {
+        "type": "unordered_bullets_slide_with_image",
+        "id": 7,
+        "elements": [
+            {
+                "id": 17,
+                "type": "title"
+            },
+            {
+                "id": 13,
+                "type": "bullets"
+            },
+            {
+                "id": 29,
+                "type": "image"
+            }
+
+        ]
+
+    },
+    {
+        "type": "ordered_bullets_slide",
+        "id": 8,
+        "elements": [
+            {
+                "id": 12,
+                "type": "title"
+            },
+            {
+                "id": 9,
+                "type": "bullets"
+            }
+
+        ]
+
+    },
+    {
+        "type": "ordered_bullets_slide_with_icon",
+        "id": 9,
+        "elements": [
+            {
+                "id": 8,
+                "type": "title"
+            },
+            {
+                "id": 11,
+                "type": "bullets"
+            },
+            {
+                "id": 23,
+                "type": "icon"
+            }
+
+        ]
+
+    },
+    {
+        "type": "ordered_bullets_slide_with_image",
+        "id": 10,
+        "elements": [
+            {
+                "id": 17,
+                "type": "title"
+            },
+            {
+                "id": 13,
+                "type": "bullets"
+            },
+            {
+                "id": 29,
+                "type": "image"
+            }
+
+        ]
+
+    },
+    {
+        "type": "three_point_feature_slide",
+        "id": 11,
+        "elements": [
+            {
+                "id": 12,
+                "type": "title"
+            },
+            {
+                "id": 26,
+                "type": "heading_1"
+            },
+            {
+                "id": 24,
+                "type": "heading_2"
+            },
+            {
+                "id": 28,
+                "type": "heading_3"
+            },
+            {
+                "id": 27,
+                "type": "content_1"
+            },
+            {
+                "id": 25,
+                "type": "content_2"
+            },
+            {
+                "id": 29,
+                "type": "content_3"
+            }
+
+        ]
+
+    },
+    {
+        "type": "three_point_feature_slide_with_icon",
+        "id": 12,
+        "elements": [
+            {
+                "id": 34,
+                "type": "title"
+            },
+            {
+                "id": 35,
+                "type": "heading_1"
+            },
+            {
+                "id": 39,
+                "type": "heading_2"
+            },
+            {
+                "id": 41,
+                "type": "heading_3"
+            },
+            {
+                "id": 38,
+                "type": "content_1"
+            },
+            {
+                "id": 40,
+                "type": "content_2"
+            },
+            {
+                "id": 42,
+                "type": "content_3"
+            },
+            {
+                "id": 54,
+                "type": "icon_1"
+            },
+            {
+                "id": 55,
+                "type": "icon_2"
+            },
+            {
+                "id": 56,
+                "type": "icon_3"
+            }
+
+        ]
+
+    },
+    {
+        "type": "table_slide",
+        "id": 13,
+        "elements": [
+            {
+                "id": 21,
+                "type": "title"
+            },
+            {
+                "id": 47,
+                "type": "table"
+            }
+
+        ]
+
+    },
+    {
+        "type": "thankyou_slide",
+        "id": 14,
+        "elements": [
+            {
+                "id": 20,
+                "type": "closing_statement"
+            }
+
+        ]
+
+    }
+
+]
